@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+*.zip
+*.csv
+*.jpg
+*.jpeg
+*.png
+*.wav
+*.mp3
+
+# Trained models
+*.keras
+*.h5
+*.pkl
+
+# Google Colab / local files
+/content/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
